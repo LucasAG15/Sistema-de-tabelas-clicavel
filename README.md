@@ -9,3 +9,5 @@ Passo a passo para uso da aplicação
 ! ATENÇÃO o app esta incompleto, se acabar colocando valores vazios dentro das caixas de texto o app vai parar ! 
 
 em breve esse erro sera corrigido. 
+
+Link parar portifolio em breve ou entre em contato 11 984686135.
